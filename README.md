@@ -1,4 +1,4 @@
-# BLAST (Basic Local Alignment Search Tool). workflow
+# BLAST (Basic Local Alignment Search Tool) workflow
 
 #### **Summary**
 This repository contains a latch wf for  BLAST (Basic Local Alignment Search Tool)..
